@@ -91,7 +91,6 @@ public class VertifyCodeServiceImpl implements VertifyCodeService {
      */
     private ResponseResult checkSendCodeTimeLimit(String phoneNumber){
         //判断是否有 限制1分钟，10分钟，24小时。
-        .
         return ResponseResult.success("");
     }
 
@@ -106,4 +105,13 @@ public class VertifyCodeServiceImpl implements VertifyCodeService {
 
         return ResponseResult.success("");
     }
+    /**
+     * Test git
+     **/
+
+    private ResponseResult test(){
+        return ResponseResult.success("");
+    }
+
+
 }
