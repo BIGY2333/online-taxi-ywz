@@ -1,0 +1,15 @@
+# 应用名称
+spring:
+  application:
+    name: service_sms
+
+# 应用服务 WEB 访问端口
+server:
+  port: 8081
+
+eureka:
+  client:
+    enabled: false
+
+
+
