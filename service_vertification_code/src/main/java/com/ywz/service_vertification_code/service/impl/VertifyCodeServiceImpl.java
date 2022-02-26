@@ -105,13 +105,7 @@ public class VertifyCodeServiceImpl implements VertifyCodeService {
 
         return ResponseResult.success("");
     }
-    /**
-     * Test git
-     **/
 
-    private ResponseResult test(){
-        return ResponseResult.success("");
-    }
 
 
 }
