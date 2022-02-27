@@ -110,7 +110,7 @@ public class VertifyCodeServiceImpl implements VertifyCodeService {
      **/
 
     private ResponseResult test(){
-        return ResponseResult.success("");
+        return ResponseResult.success("菩萨，太公");
     }
 
 
