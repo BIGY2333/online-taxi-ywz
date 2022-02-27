@@ -10,6 +10,7 @@
         <module name="online-taxi" />
         <module name="cloud_eurake" />
         <module name="api_passanger" />
+        <module name="online-taxi-ywz" />
         <module name="service_vertification_code" />
         <module name="service_sms" />
         <module name="internal_common" />
