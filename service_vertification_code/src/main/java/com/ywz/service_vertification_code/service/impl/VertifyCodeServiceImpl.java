@@ -102,16 +102,18 @@ public class VertifyCodeServiceImpl implements VertifyCodeService {
      */
     private ResponseResult checkCodeThreeLimit(String phoneNumber,String code){
         //看流程图
-
         return ResponseResult.success("");
     }
-    /**
-     * Test git
-     **/
 
-    private ResponseResult test(){
+
+    private ResponseResult test() {
         return ResponseResult.success("菩萨，太公");
     }
+
+    public static void main(String[] args) {
+        System.out.println("Fuck master-1.1");
+    }
+
 
 
 }
