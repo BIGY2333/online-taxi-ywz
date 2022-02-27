@@ -106,13 +106,6 @@ public class VertifyCodeServiceImpl implements VertifyCodeService {
     }
 
 
-    private ResponseResult test() {
-        return ResponseResult.success("菩萨，太公");
-    }
-
-    public static void main(String[] args) {
-        System.out.println("Fuck master-1.1");
-    }
 
 
 
