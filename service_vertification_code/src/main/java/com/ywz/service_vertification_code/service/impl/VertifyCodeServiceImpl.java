@@ -105,6 +105,9 @@ public class VertifyCodeServiceImpl implements VertifyCodeService {
         return ResponseResult.success("");
     }
 
+    public static void main(String[] args) {
+        System.out.println("master");
+    }
 
 
 
